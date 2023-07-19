@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/StudentVUE.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/ADAL.framework/SC_Info/ADAL.sinf</string>
+		<string>Frameworks/AppAuth.framework/SC_Info/AppAuth.sinf</string>
+		<string>Frameworks/Base32.framework/SC_Info/Base32.sinf</string>
+		<string>Frameworks/GTMAppAuth.framework/SC_Info/GTMAppAuth.sinf</string>
+		<string>Frameworks/GTMSessionFetcher.framework/SC_Info/GTMSessionFetcher.sinf</string>
+		<string>Frameworks/GoogleAPIClientForREST.framework/SC_Info/GoogleAPIClientForREST.sinf</string>
+		<string>Frameworks/GoogleToolboxForMac.framework/SC_Info/GoogleToolboxForMac.sinf</string>
+		<string>Frameworks/ObjectiveDropboxOfficial.framework/SC_Info/ObjectiveDropboxOfficial.sinf</string>
+		<string>Frameworks/OneDriveSDK.framework/SC_Info/OneDriveSDK.sinf</string>
+		<string>Watch/StudentVUE-Watch.app/PlugIns/StudentVUE-Watch Extension.appex/SC_Info/StudentVUE-Watch Extension.sinf</string>
+		<string>SC_Info/StudentVUE.sinf</string>
+	</array>
+</dict>
+</plist>
